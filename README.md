@@ -1,2 +1,2 @@
-# scalability-of-websystems
-Scalability of Web System. Course at ITU, fall 2015.
+# scalability-of-web-systems
+Scalability of Web Systems. Course at ITU, fall 2015.
